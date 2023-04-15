@@ -5,6 +5,11 @@ public class Main {
         dog.color = "white";
         dog.age = 4;
 
+        Cats cat = new Cats();
+        cat.breed = "bengal";
+        cat.color = "brown";
+        cat.age = 5;
+
 
     }
 }
